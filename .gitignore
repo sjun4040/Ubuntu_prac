@@ -1,5 +1,6 @@
 # 데이터셋 폴더
 datasets/
+mnist/
 
 # 이미지 파일들
 *.png
@@ -45,3 +46,4 @@ logs/
 *.temp
 *~
 glaucoma.zip:Zone.Identifier
+mnist_train.zip:Zone.Identifier
