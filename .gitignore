@@ -1,6 +1,7 @@
 # 데이터셋 폴더
 datasets/
 mnist/
+data/
 
 # 이미지 파일들
 *.png
@@ -16,6 +17,8 @@ mnist/
 *.tar
 *.gz
 *.rar
+*.csv
+*.identifier
 
 # Python 관련
 __pycache__/
